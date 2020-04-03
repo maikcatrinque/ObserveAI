@@ -1,0 +1,10 @@
+= ObserveAI
+:nofooter:
+
+ObserveAI is a repository for simple AI projects that anyone can user to understand AI concepts.
+
+== Projects
+
+=== TicTacToe
+
+Users can interactively play the classic Tic Tac Toe game against an AI, watching the AI improving its game ability.

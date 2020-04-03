@@ -1,0 +1,8 @@
+= TicTacToe
+:nofooter:
+
+Users can interactively play the classic Tic Tac Toe game against an AI, watching the AI improving its game ability.
+
+== Architecture
+
+Django API + React.js
